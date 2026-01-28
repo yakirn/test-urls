@@ -1,0 +1,12 @@
+innerdedup.com
+scopededup.br/
+*.scopededup.br/
+twelvearrive.net
+twelveoffice.net
+*.arebright.tk/
+*.arendroukysdqq.com/
+*.arenosos.com/
+innerdedup.com
+innerdedup.com/
+*.arenosos.com/do/not/dedup
+innerdedup.com/also/not/me
