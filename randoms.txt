@@ -2,3 +2,4 @@ abcdefg.co
 abcdefg.com
 *.something.io
 *hello.is.it.me/your/looking/for
+yakir.narkis.com/abcd
