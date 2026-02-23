@@ -1,2 +1,3 @@
-wakaflakabear.co
+*.somethingelse.com
 yakir.narkis.com/abcd
+*unkown.com
