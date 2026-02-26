@@ -1,0 +1,3 @@
+a.com/a
+*b.com
+*.c.com
