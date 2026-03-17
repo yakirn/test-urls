@@ -1,3 +1,5 @@
 *.somethingelse.com
 yakir.narkis.com/abcd
 *unkown.com
+sdfdsfdfdf
+this.us.rin##%$dsfdffd"';..com/path
