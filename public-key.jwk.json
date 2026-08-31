@@ -1,0 +1,8 @@
+{
+  "jwk": {
+    "kty": "EC",
+    "x": "abQeuPD0KnWkPynZXPMDsxTndRj8Wwz8nenPX31Pwgg",
+    "y": "J4w2X3DqihrrgSBecTUAQSwb70xdfUmQ7WR8-8nJtn8",
+    "crv": "P-256"
+  }
+}
